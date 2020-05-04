@@ -1,0 +1,1 @@
+enum AuthValidationError { wrongEmail, wrongPassword }

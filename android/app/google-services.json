@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377018643968",
+    "firebase_url": "https://flutterkeep-6568b.firebaseio.com",
+    "project_id": "flutterkeep-6568b",
+    "storage_bucket": "flutterkeep-6568b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377018643968:android:82f69c51fac6416ecc4ae5",
+        "android_client_info": {
+          "package_name": "com.renovavision.flutterkeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377018643968-e4u6mokoh8k9rg46rdkq7aseakk0cs6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5d4JVZzPqKfacLXyb1zsJJqqUQ_gGCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377018643968-e4u6mokoh8k9rg46rdkq7aseakk0cs6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
