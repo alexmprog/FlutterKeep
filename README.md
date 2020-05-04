@@ -1,6 +1,6 @@
 # flutterkeep
 
-Flutter keep app allow you manage your keeps
+Flutter keep app allow you manage your notes
 
 ## Getting Started
 
